@@ -4,13 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Norauto - Oficina",
+  "tagline": "Reparation on Top",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
   "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "projectName": "Norauto",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -26,15 +26,15 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/masaleiro/Code/UAlg/docusaurus-ghpages/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "/home/rodrigo.daniel/Code/UAlg/docusaurus-ghpages/sidebars.js",
+          "editUrl": "https://www.facebook.com/norautoportugaloficial/?locale=pt_PT"
         },
         "blog": {
           "showReadingTime": true,
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/home/masaleiro/Code/UAlg/docusaurus-ghpages/src/css/custom.css"
+          "customCss": "/home/rodrigo.daniel/Code/UAlg/docusaurus-ghpages/src/css/custom.css"
         }
       }
     ]
@@ -42,7 +42,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Norauto",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -80,19 +80,15 @@ export default {
           ]
         },
         {
-          "title": "Community",
+          "title": "Motor",
           "items": [
             {
               "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "href": "https://www.norauto.pt/c/49088-kit-roda-sobressalente.html"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/i/flow/login?redirect_after_login=%2FNorautoPortugal"
             }
           ]
         },
