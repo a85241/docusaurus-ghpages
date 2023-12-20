@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docusaurus - Rodrigo Neves',
+  title: 'Site da Norauto - Rodrigo Neves e Daniel Pinto',
   tagline: 'Dinosaurs are cool!',
   favicon: 'img/favicon.ico',
 
