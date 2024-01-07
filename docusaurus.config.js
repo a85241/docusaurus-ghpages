@@ -63,7 +63,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'https://seeklogo.com/images/N/norauto-logo-02D2BFB3D9-seeklogo.com.png',
       navbar: {
         title: 'Norauto',
         logo: {
