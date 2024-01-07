@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Norauto 🚗',
   tagline: 'Reparação e Manutenção do seu Veículo !',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_actuel_de_Norauto.png/1200px-Logo_actuel_de_Norauto.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
