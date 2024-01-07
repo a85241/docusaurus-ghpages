@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'a85241 e a85275', // Usually your GitHub org/user name.
+  organizationName: 'a85241 e a85275 e a85282', // Usually your GitHub org/user name.
   projectName: 'docusaurus-ghpages-tp3', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
@@ -75,7 +75,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Home',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
