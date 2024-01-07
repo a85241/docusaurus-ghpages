@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Norauto',
-  tagline: 'Reparação e Manutenção do seu Veículo !!!',
+  tagline: 'Reparação e Manutenção do seu Veículo !',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
