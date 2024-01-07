@@ -79,7 +79,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
         
-          {to: '/servico', label: 'Serviços e Oficina', position: 'left'},
+          {href: 'https://www.norauto.pt/e/servicos-oficina.html', label: 'Serviços e Oficina', position: 'left'},
           {
             href: 'https://www.facebook.com/Norauto/',
             label: 'Facebook',
