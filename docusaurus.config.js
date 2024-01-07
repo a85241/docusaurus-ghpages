@@ -98,7 +98,7 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Comunidade',
             items: [
               {
                 label: 'Facebook',
@@ -111,10 +111,10 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Mais',
             items: [
               {
-                label: 'Blog',
+                label: 'Sobre Nós',
                 to: '/blog',
               },
               {
