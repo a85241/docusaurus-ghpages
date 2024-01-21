@@ -25,7 +25,7 @@ Para resolver problemas mecânicos e garantir a segurança dos veículos, a ofic
 
 ## Serviços de Pneus
 
-A oficina XYZ realiza serviços abrangentes relacionados a pneus, incluindo:
+A oficina DRD realiza serviços abrangentes relacionados a pneus, incluindo:
 
 - Venda de pneus de várias marcas
 - Montagem e balanceamento de pneus
@@ -42,7 +42,7 @@ Além dos serviços de manutenção, a oficina oferece opções de personalizaç
 
 ## Atendimento ao Cliente
 
-A satisfação do cliente é uma prioridade, e a oficina XYZ oferece:
+A satisfação do cliente é uma prioridade, e a oficina DRD oferece:
 
 - Orçamentos transparentes
 - Agendamento online
