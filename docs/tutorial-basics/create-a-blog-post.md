@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Manutenção Preventiva
 
-A oficina automotiva XYZ oferece uma variedade de serviços de manutenção preventiva para garantir o desempenho confiável e a longevidade dos veículos, incluindo:
+A oficina automotiva DRD oferece uma variedade de serviços de manutenção preventiva para garantir o desempenho confiável e a longevidade dos veículos, incluindo:
 
 - Troca de óleo e filtro
 - Verificação e substituição de fluidos
