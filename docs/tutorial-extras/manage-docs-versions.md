@@ -2,54 +2,10 @@
 sidebar_position: 1
 ---
 
-# Manage Docs Versions
+# O que é a Norauto?
 
-Docusaurus can manage multiple versions of your docs.
+A Norauto é líder europeia em centros auto, nasceu em França há mais 50 anos, estando presente em 6 países, com mais de 600 centros-auto, continuando o seu processo de desenvolvimento através da implementação em novos países. No mercado nacional, onde atua desde 1996, detém atualmente 29 centros auto, 1 loja de Mobilidade Urbana e 2 Oficinas Móveis, dando continuidade também à sua expansão. 
 
-## Create a docs version
+Ao longo dos anos tem reafirmado a sua posição como parceiro ideal dos automobilistas, promovendo soluções de mobilidade de forma sustentável e assente em valores sólidos através do Profissionalismo das nossas Equipas e Respeito pelos nossos Clientes.
 
-Release a version 1.0 of your project:
-
-```bash
-npm run docusaurus docs:version 1.0
-```
-
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
-
-Your docs now have 2 versions:
-
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
-
-## Add a Version Dropdown
-
-To navigate seamlessly across versions, add a version dropdown.
-
-Modify the `docusaurus.config.js` file:
-
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
-
-The docs version dropdown appears in your navbar:
-
-![Docs Version Dropdown](./img/docsVersionDropdown.png)
-
-## Update an existing version
-
-It is possible to edit versioned docs in their respective folder:
-
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+![Oficina]([https://www.example.com/logo.png](https://maismagazine.pt/wp-content/uploads/2022/02/Jose-Barbajosa-2.jpg)https://maismagazine.pt/wp-content/uploads/2022/02/Jose-Barbajosa-2.jpg)
