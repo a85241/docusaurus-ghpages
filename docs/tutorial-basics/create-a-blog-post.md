@@ -2,33 +2,51 @@
 sidebar_position: 3
 ---
 
-# Create a Blog Post
+# Funcionalidades da Oficina Automotiva DRD
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+## Manutenção Preventiva
 
-## Create your first Post
+A oficina automotiva XYZ oferece uma variedade de serviços de manutenção preventiva para garantir o desempenho confiável e a longevidade dos veículos, incluindo:
 
-Create a file at `blog/2021-02-28-greetings.md`:
+- Troca de óleo e filtro
+- Verificação e substituição de fluidos
+- Inspeção de sistemas de freios
+- Alinhamento de rodas
+- Diagnóstico de bateria
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
+## Reparos Mecânicos
 
-Congratulations, you have made your first post!
+Para resolver problemas mecânicos e garantir a segurança dos veículos, a oficina oferece serviços de reparo, tais como:
 
-Feel free to play around and edit this post as much you like.
-```
+- Diagnóstico e reparo de sistemas de suspensão
+- Substituição de peças desgastadas
+- Reparo de sistemas de escapamento
+- Solução de problemas elétricos
 
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+## Serviços de Pneus
+
+A oficina XYZ realiza serviços abrangentes relacionados a pneus, incluindo:
+
+- Venda de pneus de várias marcas
+- Montagem e balanceamento de pneus
+- Reparo de furos e cortes
+- Rotação de pneus
+
+## Personalização e Melhorias
+
+Além dos serviços de manutenção, a oficina oferece opções de personalização e melhorias para atender às preferências dos clientes, como:
+
+- Instalação de acessórios automotivos
+- Melhorias de desempenho
+- Pintura e personalização exterior
+
+## Atendimento ao Cliente
+
+A satisfação do cliente é uma prioridade, e a oficina XYZ oferece:
+
+- Orçamentos transparentes
+- Agendamento online
+- Atendimento personalizado
+- Garantia de serviços realizados
+
+Para mais informações sobre os serviços específicos ou para agendar uma consulta.
